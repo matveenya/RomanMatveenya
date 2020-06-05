@@ -1,0 +1,12 @@
+1
+Kasperski
+1998
+2300
+2
+Tyrgenev
+1995
+2400
+3
+Stroustrup
+2002
+2800
